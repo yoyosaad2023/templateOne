@@ -1,0 +1,43 @@
+ /* phone And Tablet*/
+@media (max-width:767px)
+{
+	.navbar-inverse .navbar-nav>li>a{
+		padding-top:10px;
+		padding-bottom:10px;
+	}
+
+	.navbar-fixed-bottom .navbar-collapse, 
+	.navbar-fixed-top .navbar-collapse{
+		max-height: none;
+	}
+
+	.testimonials h1{
+		font-size:35px;
+	}
+
+	section.subscribe .form-control{
+		margin:15px auto;
+		width:400px;
+	}
+}	
+
+/* Small Screen */
+
+@media(min-width:768px)and(max-width:991px)
+{
+
+}
+
+/* Medium Screen */
+
+@media(min-width:992px)and(max-width:1199px)
+{
+
+}
+
+/* large Screen */
+
+@media(min-width:1200px)
+{
+
+}

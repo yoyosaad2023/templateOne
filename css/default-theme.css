@@ -1,0 +1,25 @@
+/*** Default Color ****/
+.navbar-inverse .navbar-brand span{
+	color:#E41B17;
+}
+
+/* Home Link */
+.navbar-inverse .navbar-nav>.active>a, 
+.navbar-inverse .navbar-nav>.active>a:focus, 
+.navbar-inverse .navbar-nav>.active>a:hover,
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover,
+.dropdown-menu .divider,
+.carousel-indicators .active{
+	background: #E41B17;
+}
+
+.about h1 span,
+.testimonials span,
+section.footer h3,
+section.footer .copyright span{
+	color:#E41B17;
+}
+
+.testimonials .carousel-indicators .active{
+	border: 3px solid #E41B17;
+}

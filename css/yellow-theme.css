@@ -1,0 +1,25 @@
+/*** Yello Color ****/
+.navbar-inverse .navbar-brand span{
+	color:#FFF400;
+}
+
+/* Home Link */
+.navbar-inverse .navbar-nav>.active>a, 
+.navbar-inverse .navbar-nav>.active>a:focus, 
+.navbar-inverse .navbar-nav>.active>a:hover,
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover,
+.dropdown-menu .divider,
+.carousel-indicators .active{
+	background: #FFF400;
+}
+
+.about h1 span,
+.testimonials span,
+section.footer h3,
+section.footer .copyright span{
+	color:#FFF400;
+}
+
+.testimonials .carousel-indicators .active{
+	border: 3px solid #FFF400;
+}
